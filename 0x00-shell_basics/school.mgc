@@ -1,2 +1,2 @@
 #!/bin/bash
-file -C -m School 
+ln -s /bin/ls _ls_
